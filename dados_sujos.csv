@@ -1,0 +1,52 @@
+ID,Data,Produto,Categoria,Quantidade,Preco
+1,2023-04-19,Notebook,Eletronicos,2.0,2500.0
+2,2023-03-04,Fone de Ouvido,Eletronicos,10.0,150.0
+3,2023-02-10,Celular,Eletronicos,5.0,1200.0
+4,2023-01-07,Notebook,Eletronicos,5.0,2500.0
+5,2023-12-19,Tênis,Vestuário,10.0,250.0
+6,2023-04-07,Liquidificador,Eletrodomésticos,10.0,
+7,2023-10-31,Camiseta,Vestuário,10.0,80.0
+8,2023-10-18,Livro,Papelaria,10.0,50.0
+9,2023-07-28,Tênis,Vestuário,3.0,250.0
+10,2023-10-29,Camiseta,Vestuário,3.0,80.0
+11,2023-04-26,Fone de Ouvido,Eletronicos,,150.0
+12,2023-01-22,Air Fryer,Eletrodomésticos,3.0,400.0
+13,2023-06-19,Liquidificador,Eletrodomésticos,5.0,200.0
+14,2023-11-24,Fone de Ouvido,Eletronicos,2.0,150.0
+15,2023-08-02,Camiseta,Vestuário,1.0,80.0
+16,2023-01-05,Liquidificador,Eletrodomésticos,10.0,
+17,2023-07-01,Tênis,Vestuário,5.0,250.0
+18,2023-07-03,Fone de Ouvido,Eletronicos,10.0,150.0
+19,2023-04-02,Caneta,Papelaria,2.0,5.0
+20,2023-05-20,Caneta,Papelaria,2.0,5.0
+21,2023-11-09,Celular,Eletronicos,2.0,1200.0
+22,2023-03-22,Air Fryer,Eletrodomésticos,10.0,400.0
+23,2023-07-27,Notebook,Eletronicos,3.0,2500.0
+24,2023-11-07,Notebook,Eletronicos,10.0,2500.0
+25,2023-07-25,Caneta,Papelaria,2.0,5.0
+26,2023-09-14,Air Fryer,Eletrodomésticos,10.0,400.0
+27,2023-11-26,Caneta,Papelaria,2.0,5.0
+28,2023-12-13,Caneta,Papelaria,10.0,5.0
+29,2023-07-13,Tênis,Vestuário,10.0,250.0
+30,2023-02-12,Camiseta,Vestuário,2.0,80.0
+31,2023-06-29,Liquidificador,Eletrodomésticos,5.0,200.0
+32,2023-08-04,Tênis,Vestuário,2.0,250.0
+33,2023-07-13,Celular,Eletronicos,5.0,1200.0
+34,2023-05-03,Air Fryer,Eletrodomésticos,10.0,400.0
+35,2023-05-30,Fone de Ouvido,Eletronicos,3.0,150.0
+36,2023-09-03,Liquidificador,Eletrodomésticos,5.0,200.0
+37,2023-06-12,Tênis,Vestuário,5.0,250.0
+38,2023-09-29,Camiseta,Vestuário,1.0,80.0
+39,2023-09-11,Liquidificador,Eletrodomésticos,10.0,200.0
+40,2023-12-03,Fone de Ouvido,Eletronicos,10.0,150.0
+41,2023-12-08,Tênis,Vestuário,1.0,250.0
+42,2023-06-14,Air Fryer,Eletrodomésticos,10.0,400.0
+43,2023-08-07,Caneta,Papelaria,2.0,5.0
+44,2023-01-12,Notebook,Eletronicos,3.0,2500.0
+45,2023-08-07,Fone de Ouvido,Eletronicos,2.0,150.0
+46,2023-12-08,Notebook,Eletronicos,10.0,2500.0
+47,2023-11-06,Liquidificador,Eletrodomésticos,3.0,200.0
+48,2023-10-05,Liquidificador,Eletrodomésticos,5.0,200.0
+49,2023-02-10,Tênis,Vestuário,1.0,250.0
+50,2023-05-13,Tênis,Vestuário,3.0,250.0
+1,2023-04-19,Notebook,Eletronicos,2.0,2500.0
